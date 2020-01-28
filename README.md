@@ -13,3 +13,5 @@ After quitting the windows (by pressing esc) dataframe from these lists is creat
 
 ![alt text](https://github.com/shamPJ/videoframe_labeling_tool/blob/master/screenshots/outputFile.png)
 
+Ethogram plotted 
+![alt text](https://github.com/shamPJ/videoframe_labeling_tool/blob/master/screenshots/videoFile.png)
